@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=AmegakureDojo+Operator;Android+Forensics;Bug+Bounty;Agentic+Cybersecurity+Systems" />
 </p>
 
-## amegakuredojo
+## AmegakureDojo
 
 Cuenta operativa principal para Android forensics, reverse engineering, bug bounty y automatización con IA.
 
